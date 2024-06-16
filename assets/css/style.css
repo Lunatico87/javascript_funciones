@@ -1,0 +1,38 @@
+body {
+    font-family: "Raleway", sans-serif;
+  }
+  
+  /*nav */
+  
+  .navbar-dark .navbar-nav .nav-link {
+    color: #194360;
+  }
+  .nav-link:active,
+  .nav-link:hover,
+  .nav-link:focus {
+    color: #51b1f2;
+  }
+  .navbar-toggler,
+  .navbar-toggler-icon {
+    color: #194360;
+  }
+  
+  #javas .card-image-top {
+    height: auto;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+  }
+  
+  .container1 {
+    display: flex;
+    justify-content: center;
+  }
+  
+  footer{
+    height: auto;
+  }
+  .fa-brands {
+    margin: 0 40px;
+    text-decoration: none;
+  }
